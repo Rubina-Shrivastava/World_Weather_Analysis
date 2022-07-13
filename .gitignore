@@ -1,6 +1,10 @@
 # Byte-compiled / optimized / DLL files
 # Adding config.py file.
+vacation_itinerary/config.py
+vacation_search/config.py
+
 config.py
+
 API_practice.ipynb
 random_numbers.ipynb
 
