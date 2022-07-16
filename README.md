@@ -1,9 +1,9 @@
 # World_Weather_Analysis
 
 ## purpose
-###  The purpose of this challenge was to improve our app so customers will be able to use input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. 
-### 1. Retrieve weather data including the weather description for over 500 cities across the world,
-### 2. Create a customer travel destinations map,
+###  The purpose of this challenge was to improve our app, so customers will be able to use input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. 
+### 1. Retrieve weather data including the weather description for over 500 cities across the world.
+### 2. Create a customer travel destinations map.
 ### 3. Create a travel itinerary map.
 
 ## Resources
@@ -13,5 +13,8 @@
 ## Results
 ### The Weather Data was retrieved based on a set of 2,000 random latitudes and longitudes. Using the Open Weather map and retrieving the information with API, the cities weather data was collected with the current weather description and saved in a new DataFrame.
 ### data frame image
+![Data Frame Image](https://github.com/Rubina-Shrivastava/World_Weather_Analysis/blob/main/New_Data_frame.png)
 ### We add a marker layer for each city to the map and uses directions API to create a vacation itinerary. For my example, I used four cities spread throughout US
 ### Travel map image
+![Travel Map Image](https://github.com/Rubina-Shrivastava/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
+![Travel Map Image](https://github.com/Rubina-Shrivastava/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
